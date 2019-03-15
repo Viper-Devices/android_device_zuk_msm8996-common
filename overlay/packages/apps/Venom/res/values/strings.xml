@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <!--
      Copyright (C) 2018 ViperOS Project
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -17,79 +13,12 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    
-    <!-- General app strings -->
-    <string name="venom_title">Venom</string>
-    <string name="add">Add</string>
-    <string name="advanced">Advanced</string>
-    <string name="cancel">Cancel</string>
-    <string name="choose_app">Choose app</string>
-    <string name="general_category">General</string>
-    <string name="gestures_category">Gestures</string>
-    <string name="security_category">Security</string>
-    <string name="hardware_category">Hardware</string>
-    <string name="list_preference_default_summary">%s</string>
-    <string name="dlg_cancel">cancel</string>
-    <string name="dlg_reset_values_message">Reset values to\nAndroid- or Venom default?</string>
-    <string name="dlg_reset_android">Android</string>
-    <string name="dlg_reset_venom">Venom</string>
-    <string name="dlg_ok">OK</string>
-    <string name="attention">Attention</string>
-    <string name="loading">Loading\u2026</string>
-    <string name="reset">Reset</string>
-    <string name="reset_colors">Reset colors</string>
-    <string name="reset_android">Android</string>
-    <string name="text_title">Text</string>
-    <string name="icon_title">Icon</string>
-    <string name="color_title">Color</string>
-    <string name="colors_title">Colors</string>
 
-
-<!-- Button settings -->
-    <string name="button_pref_title">Buttons</string>
-    <string name="hardware_keys_power_key_title">Power button</string>
+    <!-- Button settings -->
     <string name="hardware_keys_home_key_title">Home button</string>
     <string name="hardware_keys_back_key_title">Back button</string>
     <string name="hardware_keys_menu_key_title">Right Swipe</string>
     <string name="hardware_keys_assist_key_title">Search button</string>
     <string name="hardware_keys_appswitch_key_title">Left Swipe</string>
-    <string name="hardware_keys_camera_key_title">Camera button</string>
-    <string name="hardware_keys_volume_keys_title">Volume buttons</string>
-    <string name="hardware_keys_short_press_title">Short press action</string>
-    <string name="hardware_keys_long_press_title">Long press action</string>
-    <string name="hardware_keys_double_tap_title">Double tap action</string>
-    <string name="hardware_keys_action_nothing">No action</string>
-    <string name="hardware_keys_action_menu">Open/close menu</string>
-    <string name="hardware_keys_action_app_switch">Recent apps switcher</string>
-    <string name="hardware_keys_action_search">Search assistant</string>
-    <string name="hardware_keys_action_voice_search">Voice search</string>
-    <string name="hardware_keys_action_in_app_search">In-app search</string>
-    <string name="hardware_keys_action_launch_camera">Launch camera</string>
-    <string name="hardware_keys_action_sleep">Turn screen off</string>
-    <string name="hardware_keys_action_last_app">Last app</string>
-    <string name="hardware_keys_action_split_screen">Split screen</string>
-    <string name="hardware_keys_action_single_handed_left">Single hand mode (left)</string>
-    <string name="hardware_keys_action_single_handed_right">Single hand mode (right)</string>
-    <string name="camera_sleep_on_release_title">Screen peek</string>
-    <string name="camera_sleep_on_release_summary">A half press will keep the screen on only while the button is held down</string>
-    <string name="camera_launch_title">Launch camera</string>
-    <string name="camera_launch_summary">A longpress and release will launch camera</string>
-    <string name="volbtn_music_controls_title">Control playback</string>
-    <string name="volbtn_music_controls_summary">Seek music tracks by long pressing the volume keys while the display is off</string>
-    <string name="volbtn_cursor_control_title">Keyboard cursor control</string>
-    <string name="volbtn_cursor_control_off">Disabled</string>
-    <string name="volbtn_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volbtn_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
-    <string name="power_end_call_title">End call</string>
-    <string name="power_end_call_summary">End the current call by pressing the power button</string>
-    <string name="swap_volume_buttons_title">Reorient</string>
-    <string name="swap_volume_buttons_summary">Swap volume buttons when the screen is rotated</string>
-    <string name="button_wake_title">Wake device</string>
-    <string name="volume_answer_call_title">Answer call</string>
-    <string name="volume_answer_call_summary">Answer incoming calls by pressing the volume buttons</string>
-    <string name="home_answer_call_title">Answer call</string>
-    <string name="home_answer_call_summary">Answer incoming calls by pressing the home button</string>
-    <string name="extras_title">Extras</string>
-    <string name="additional_buttons_title">Additional buttons</string>
 
 </resources>
